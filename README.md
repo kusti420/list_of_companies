@@ -1,4 +1,4 @@
-<h1>companies who's morals have turned sour<h1>
+<h1>Companies who's morals have turned sour<h1>
 
 | Company | immoral thing | proof |
 |---------|---------------|-------|
@@ -11,3 +11,8 @@
 | Nestlé |
 | Apple |
 | Activision/Blizzard |
+| Ubisoft |
+| EA |
+| Google |
+| Meta |
+| Hostinger | bad business practices | https://www.youtube.com/watch?v=Jvi5TORux7g |
